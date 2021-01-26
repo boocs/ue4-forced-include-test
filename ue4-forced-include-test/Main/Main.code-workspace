@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "Main",
+			"path": "."
+		},
+		{
+			"name": "Secondary",
+			"path": "../Secondary"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"Intermediate/Build/Win64/MainGameEditor/Development/Engine/Engine/SharedPCH.Engine.ShadowErrors.h"
+		]
+	}
+}

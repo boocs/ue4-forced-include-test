@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "name": "Main 1",
+            "intelliSenseMode": "msvc-x64",
+            "includePath": [
+                
+                "${default}",
+                "${workspaceFolder}/Source",
+                "${workspaceFolder}/Source/Main/Private",
+                "${workspaceFolder}/Source/Main/Public",
+                "../Secondary/Engine/Source/**" // This doesn't work
+                //,
+                //"../Secondary/Engine/Source/Runtime/**",  // This doesn't work
+                //"../Secondary/Engine/Source/Runtime/ApplicationCore/**"  // This doesn't work
+                //"../Secondary/Engine/Source/Runtime/ApplicationCore/Public/**" // This doesn't
+
+                //"../Secondary/Engine/Source/Runtime/ApplicationCore/Public"  // This does
+
+                // ../Secondary/Engine/Source/Runtime/ApplicationCore/Public/GenericPlatform/ICursor.h  Full rel. path to ICursor.h for reference
+
+            ],
+            "browse": {
+                "path": [
+                    "${default}",
+                    "${workspaceFolder}/Source",
+                    "../Secondary/Engine/Source"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}

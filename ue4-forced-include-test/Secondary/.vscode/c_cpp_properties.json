@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Secondary 1",
+            "includePath": [
+                "${workspaceFolder}/Engine/Source/**"
+            ],
+            "browse": {
+                "path": [
+                    
+                ]
+            }
+        }
+    ],
+    "version": 4
+}
