@@ -12,7 +12,8 @@
 	"settings": {
 		"typescript.tsc.autoDetect": "off",
 		"C_Cpp.default.forcedInclude": [
-			"Intermediate/Build/Win64/MainGameEditor/Development/Engine/Engine/SharedPCH.Engine.ShadowErrors.h"
+			// This is an absolute path in UE4
+			"${workspaceFolder}/Intermediate/Build/Win64/MainGameEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h"
 		]
 	}
 }
