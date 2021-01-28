@@ -5,4 +5,4 @@
 
 //#include "GenericPlatform/ICursor.h"
 
-//2. Comment out the above and go to Main/.vscode/c_cpp_properties.json
+// Comment out the above and go to Main/.vscode/c_cpp_properties.json
