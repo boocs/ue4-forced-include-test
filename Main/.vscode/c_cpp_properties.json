@@ -9,6 +9,7 @@
                 "${workspaceFolder}/Source",
                 "${workspaceFolder}/Source/Main/Private",
                 "${workspaceFolder}/Source/Main/Public",
+                // This is an absolute path in my UE4 project
                 "../Secondary/Engine/Source/**" // This doesn't work
                 //,
                 //"../Secondary/Engine/Source/Runtime/**",  // This doesn't work

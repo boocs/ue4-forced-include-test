@@ -2,11 +2,11 @@
 	"folders": [
 		{
 			"name": "Main",
-			"path": "."
+			"path": "Main"
 		},
 		{
 			"name": "Secondary",
-			"path": "../Secondary"
+			"path": "Secondary"
 		}
 	],
 	"settings": {
