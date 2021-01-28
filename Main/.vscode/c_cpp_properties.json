@@ -9,6 +9,7 @@
                 "${workspaceFolder}/Source",
                 "${workspaceFolder}/Source/Main/Private",
                 "${workspaceFolder}/Source/Main/Public",
+
                 // This is an absolute path in my UE4 project
                 "../Secondary/Engine/Source/**" // This doesn't work
                 //,
@@ -16,7 +17,7 @@
                 //"../Secondary/Engine/Source/Runtime/ApplicationCore/**"  // This doesn't work
                 //"../Secondary/Engine/Source/Runtime/ApplicationCore/Public/**" // This doesn't
 
-                //"../Secondary/Engine/Source/Runtime/ApplicationCore/Public"  // This does
+                //"../Secondary/Engine/Source/Runtime/ApplicationCore/Public"  // This does work *****************
 
                 // ../Secondary/Engine/Source/Runtime/ApplicationCore/Public/GenericPlatform/ICursor.h  Full rel. path to ICursor.h for reference
 
