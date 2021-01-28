@@ -1,5 +1,8 @@
 #pragma once
 
 
-// Why does uncommenting this stop the error in a preinclude?
+//1. Why does uncommenting this stop the error in a preinclude?
+
 //#include "GenericPlatform/ICursor.h"
+
+//2. Comment out the above and go to Main/.vscode/c_cpp_properties.json
